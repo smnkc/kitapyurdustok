@@ -1,0 +1,1 @@
+web: python kitapyurdu_bot.py 
