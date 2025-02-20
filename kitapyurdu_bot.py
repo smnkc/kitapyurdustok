@@ -15,9 +15,9 @@ logging.basicConfig(
 )
 
 # Bot yapılandırması
-TELEGRAM_TOKEN = "7688976346:AAGL9kFFoXNPxOlqCZpUrbZqyGeoONMw8SM"
+TELEGRAM_TOKEN = ":"
 CHECK_INTERVAL = 300  # 5 dakika (saniye cinsinden)
-SUPER_ADMIN = "5584175783"  # Ana admin (değiştirilemez)
+SUPER_ADMIN = ""  # Ana admin (değiştirilemez)
 
 # Veritabanı dosyaları
 USERS_FILE = "users.json"
